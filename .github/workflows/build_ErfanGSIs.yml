@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
+  ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2Fmeizu17_Pro%2F9.21.3.3%2Fcn_daily%2F20210303140148%2F61dcf238%2Fupdate.zip
   ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
